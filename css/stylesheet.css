@@ -121,7 +121,7 @@ h1 {
 }
 
 .AmzPic {
-    background-image: url(/Amazon-Prime-Video-iPad-Pro.png);
+    background-image: css/Amazon-Prime-Video-iPad-Pro.png);
     width: 50vw;
     height: 40vh;
 }
@@ -169,14 +169,14 @@ h1 {
 }
 
 .AmzPic1 {
-    background-image: url(/part1.png);
+    background-image: css/part1.png;
     width: 66vw;
     height: 81.2vh;
     float: right;
 }
 
 .AmzPic2 {
-    background-image: url(/part2.png);
+    background-image: css/part2.png;
     width: 66vw;
     height: 81.2vh;
     float: right;
@@ -226,7 +226,7 @@ h1 {
 }
 
 .stick {
-    background-image: url(/Stic.png);
+    background-image: css/Stic.png;
     width: 66vw;
     height: 82vh;
     float: right;
@@ -250,7 +250,7 @@ h1 {
     font-size: 19px;
 }
 .Kids{
-  background-image: url(/kids1.png);
+  background-image: css/kids1.png;
   width: 66vw;
   height: 82vh;
   float: right;  
