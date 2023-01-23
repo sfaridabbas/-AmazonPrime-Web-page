@@ -169,14 +169,14 @@ h1 {
 }
 
 .AmzPic1 {
-    background-image: images/part1.png;
+    background-image: images/part1;
     width: 66vw;
     height: 81.2vh;
     float: right;
 }
 
 .AmzPic2 {
-    background-image: images/part2.png;
+    background-image: images/part2;
     width: 66vw;
     height: 81.2vh;
     float: right;
@@ -226,7 +226,7 @@ h1 {
 }
 
 .stick {
-    background-image: images/Stic.png;
+    background-image: images/Stic;
     width: 66vw;
     height: 82vh;
     float: right;
@@ -250,7 +250,7 @@ h1 {
     font-size: 19px;
 }
 .Kids{
-  background-image: images/kids1.png;
+  background-image: images/kids1;
   width: 66vw;
   height: 82vh;
   float: right;  
